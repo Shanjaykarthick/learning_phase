@@ -1,0 +1,29 @@
+.counter{
+width: 10%;
+height: 25px;
+
+border-radius:5px solid rgb(0, 191, 255, 0.544) ;
+}
+.btn-Counter{
+width: 10%;
+height: 25px;
+background-color: blue;
+border-radius:5px solid rgb(0, 191, 255, 0.544) ;
+}
+.box-dark{
+    width: 100%;
+    heigth:40vh;
+    background-color: #000;
+
+}
+.box-white{
+    width: 100%;
+    heigth:40vh;
+    background-color:#fff;
+}
+.table{
+     width: 100%;
+    heigth:40vh;
+    background-color:black;
+
+}
