@@ -15,6 +15,7 @@ border-radius:5px solid rgb(0, 191, 255, 0.544) ;
     heigth:40vh;
     background-color: #000;
 
+    
 }
 .box-white{
     width: 100%;
@@ -25,5 +26,4 @@ border-radius:5px solid rgb(0, 191, 255, 0.544) ;
      width: 100%;
     heigth:40vh;
     background-color:black;
-
 }
